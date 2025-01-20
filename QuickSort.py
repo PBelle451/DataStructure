@@ -33,4 +33,4 @@ if __name__ == '__main__':
         myArray.append(entry)
     n = len(myArray)
     quicksort(myArray)
-    print("Sorted array:", myArray)
+    print("Array organizado: ", myArray)

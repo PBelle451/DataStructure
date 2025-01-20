@@ -21,4 +21,4 @@ for i in range(1,n):
             break
     myArray[insert_index] = current_value
 
-print("Sorted array: ", myArray)
+print("Array organizado: ", myArray)
